@@ -1,8 +1,6 @@
 #include <iostream>
-#include <cstdlib>
 #include <cmath>
 #include <vector>
-#include "VtkData.h"
 using namespace std;
 
 class LBM
